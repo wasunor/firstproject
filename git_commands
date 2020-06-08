@@ -1,0 +1,48 @@
+  547  git clone https://github.com/rahul-padhee/Sigmoid.git
+  548  mkdir -p /wasim
+  549  cd /wasim/
+  550  l
+  551  ll
+  552  git init
+  553  ll
+  554  ls
+  555  pwd
+  556  ll
+  557  git init
+  558  ll
+  559  ls -al
+  560  cd .git/
+  561  ll
+  562  cd ..
+  563  ll
+  564  git branch
+  565  git branch -A
+  566  git branch -a
+  567  git remote add origin https://github.com/wasunor/firstproject.git
+  568  git remote -v
+  569  git branch 
+  570  git branch --help
+  571  git branch -v
+  572  git pull origin master
+  573  ll
+  574  cat a b c
+  575  vi test
+  576  touch test
+  577  echo "123456" >> test
+  578  cat test
+  579  git status
+  580  git add -A
+  581  git status
+  582  git commit -m "testing git pull and push to remote"
+  583  git status
+  584  ll
+  585  git branch
+  586  git push origin master
+  587  mkdir -p /ggg/
+  588  cd /ggg/
+  589  ll
+  590  git init
+  591  git remote add origin https://github.com/wasunor/firstproject.git
+  592  git pull origin master
+  593  git clone https://github.com/wasunor/firstproject.git
+  594  git pull origin master
